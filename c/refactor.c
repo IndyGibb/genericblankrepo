@@ -20,6 +20,7 @@ int main() {
   int TX_RATE = 1;
   int OH_RATE = 1;
   int ME_RATE = 1;
+  int THROWAWAY = 256;
 
   int rate;
   int amt;
